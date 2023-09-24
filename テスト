@@ -1,0 +1,4 @@
+kali@kali:~$ sudo apt update
+kali@kali:~$
+kali@kali:~$ sudo apt install -y tor torbrowser-launcher
+kali@kali:~$
